@@ -50,9 +50,5 @@ BUILD_FINGERPRINT := Lenovo/A6010/A6010:5.0.2/LRX22G/A6010_S045_170622_16G_ROW:u
 # GMS
 PRODUCT_GMS_CLIENTID_BASE := android-lenovo
 
-# Trust
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
-
 # APN(s)
 PRODUCT_COPY_FILES += device/lenovo/a6010/apns-conf.xml:system/etc/apns-conf.xml
