@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_a6010.mk \
+    $(LOCAL_DIR)/titanium_a6010.mk \
